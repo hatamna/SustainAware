@@ -4,6 +4,7 @@
  */
 package com.mycompany.sustainaware;
 
+import java.awt.Color;
 import java.awt.Component;
 import javax.swing.JOptionPane;
 
@@ -25,6 +26,21 @@ public class ModuleSelect extends javax.swing.JFrame {
      */
     public ModuleSelect() {
         initComponents();
+        if (!(envComp == 100 && healthComp == 100 && iniComp == 100)){
+            certificateButton.setEnabled(false);
+        } 
+        if (envComp == 100){
+            EnvButton.setEnabled(false);
+            EnvCompletionLabel.setForeground(Color.green);
+        }
+        if (healthComp == 100){
+            healthButton.setEnabled(false);
+            HealthCompletionLabel.setForeground(Color.green);
+        }
+        if (iniComp == 100){
+            IniButton.setEnabled(false);
+            IniCompletionLabel.setForeground(Color.green);
+        }
         EnvCompletionLabel.setText("Completion: " + envComp + "%");
         HealthCompletionLabel.setText("Completion: " + healthComp + "%");
         IniCompletionLabel.setText("Completion: " + iniComp + "%");
@@ -49,6 +65,7 @@ public class ModuleSelect extends javax.swing.JFrame {
         IniCompletionLabel = new javax.swing.JLabel();
         XPLabel = new javax.swing.JLabel();
         moreInfoButton = new javax.swing.JButton();
+        certificateButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -91,6 +108,8 @@ public class ModuleSelect extends javax.swing.JFrame {
             }
         });
 
+        certificateButton.setText("View Completion Certificate");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -119,7 +138,10 @@ public class ModuleSelect extends javax.swing.JFrame {
                         .addComponent(XPLabel)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(moreInfoButton)
-                        .addContainerGap())))
+                        .addContainerGap())
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(certificateButton, javax.swing.GroupLayout.PREFERRED_SIZE, 217, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(295, 295, 295))))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -140,7 +162,9 @@ public class ModuleSelect extends javax.swing.JFrame {
                     .addComponent(EnvCompletionLabel)
                     .addComponent(HealthCompletionLabel)
                     .addComponent(IniCompletionLabel))
-                .addContainerGap(175, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 99, Short.MAX_VALUE)
+                .addComponent(certificateButton)
+                .addGap(53, 53, 53))
         );
 
         setSize(new java.awt.Dimension(814, 607));
@@ -214,6 +238,7 @@ public class ModuleSelect extends javax.swing.JFrame {
     public static javax.swing.JButton IniButton;
     public static javax.swing.JLabel IniCompletionLabel;
     private javax.swing.JLabel XPLabel;
+    private javax.swing.JButton certificateButton;
     public static javax.swing.JButton healthButton;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JButton moreInfoButton;

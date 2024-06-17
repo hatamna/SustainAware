@@ -106,6 +106,7 @@ public class HealthModule extends javax.swing.JFrame {
         mainTextLabel.setColumns(20);
         mainTextLabel.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         mainTextLabel.setRows(5);
+        mainTextLabel.setText("PRESS \"NEXT\" TO START");
         jScrollPane1.setViewportView(mainTextLabel);
 
         SubButton.setText("SUBMIT");

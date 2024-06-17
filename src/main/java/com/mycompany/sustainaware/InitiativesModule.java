@@ -38,38 +38,42 @@ public class InitiativesModule extends javax.swing.JFrame {
         q2.setVisible(false);
         q3.setVisible(false);
         lesson.add("PART ONE: PERSONAL - Reducing our impact on the environment:");
-        lesson.add("Since most homes around the world are powered by non-renewable energy, saving electricity can be a major way not only to reduce cost of living but also our environmental impact. This can be done through several different actions such as turning off lights when we don't need them, washing more clothes at the same time to reduce both electricity and water use, etc.");
-        lesson.add("According to the Canadian government website, 21% of nitrogen oxide emissions are caused by cars. So it would have a huge impact if more and more people used bikes and buses rather than their cars as much as they can. This can save a lot of money that would be spent on gas which has significantly risen in price these past few years");
-        lesson.add("Another point related to cars is to plan for your next car to be electric or hybrid. Models using this technology have had major price cuts recently, now having a negligible price difference when including the government incentives most would receive after buying one");
-        lesson.add("The most obvious way to reduce our impact is the tried and true ‘reduce, reuse, recycle’. Did you know that the average clothing item is now worn 7 times during its life? With a lot of clothes being made from polyester and other plastic based materials, this isn’t good for the environment. A way to make a big impact is to only buy clothes made from 100% clean materials such as cotton, and to wear them for longer periods of time.");
-        lesson.add("Other than clothes, we can try to buy less food items packages in large amounts of plastic as that is one of the largest sources of plastic waste. This includes candies with wrapper but also fruits and vegetables that come in plastic bags and even water bottles (try to drink from the sink more often). This will also help you stay healthier as you would ingest less microplastics, which are known to cause serious health problems.");
-        lesson.add("Food waste leads to needing to buy more food than we need which by consequence leads to an increase in over farming and over hunting, which are both really bad for multiple ecosystems around the world");
-        lesson.add("The last point to be made is to vote with your money. Support local companies and those who are making an effort to reduce their carbon footprint, and reduce the amount of products you buy that are bad for the environment and from companies who do not care.");
+        lesson.add("Since most homes around the world are powered by non-renewable energy, saving electricity can be a major \nway not only to reduce cost of living but also our environmental impact. This can be done through several different \nactions such as turning off lights when we don't need them, washing more clothes at the same time to reduce both \nelectricity and water use, etc.");
+        lesson.add("According to the Canadian government website, 21% of nitrogen oxide emissions are caused by cars. So it would \nhave a huge impact if more and more people used bikes and buses rather than their cars as much as they can. This \ncan save a lot of money that would be spent on gas which has significantly risen in price these past few years");
+        lesson.add("Another point related to cars is to plan for your next car to be electric or hybrid. Models using this \ntechnology have had major price cuts recently, now having a negligible price difference when including the government \nincentives most would receive after buying one");
+        lesson.add("The most obvious way to reduce our impact is the tried and true ‘reduce, reuse, recycle’. Did you know that \nthe average clothing item is now worn 7 times during its life? With a lot of clothes being made from polyester and \nother plastic based materials, this isn’t good for the environment. A way to make a big impact is to only buy \nclothes made from 100% clean materials such as cotton, and to wear them for longer periods of time.");
+        lesson.add("Other than clothes, we can try to buy less food items packages in large amounts of plastic as that is one \nof the largest sources of plastic waste. This includes candies with wrapper but also fruits and vegetables that come \nin plastic bags and even water bottles (try to drink from the sink more often). This will also help you stay \nhealthier as you would ingest less microplastics, which are known to cause serious health problems.");
+        lesson.add("Food waste leads to needing to buy more food than we need which by consequence leads to an increase in over \nfarming and over hunting, which are both really bad for multiple ecosystems around the world");
+        lesson.add("The last point to be made is to vote with your money. Support local companies and those who are making an \neffort to reduce their carbon footprint, and reduce the amount of products you buy that are bad for the environment \nand from companies who do not care.");
         lesson.add("PART TWO: PERSONAL - Reducing the impact on us:");
-        lesson.add("The age groups seeing the largest negative impacts of tech are children under the age of 5 and teenagers, and both need to use different strategies.");
-        lesson.add("For children, those under the age of 18 months should not be using electronic devices altogether as they need to be interacting with real world toys and objects to develop basic human senses. Those older than that should watch TV and use devices such as iPads in moderation and under heavy monitoring, parents should know and choose what their kids watch or do online due to the dangers of the internet. These parents should also limit the amount of time kids spend with tech as it can be very addictive if not used properly.");
-        lesson.add("For teenagers, however, it gets a little more difficult. For many people, having a device with them at all times is necessary for work, school, and social life. Social media apps have taken advantage of this by making addictive apps that bundle entertainment with messaging to maximize the time spent on their apps. When looking through social media, one can see what seems to be other people’s perfect lives, but it is not that easy to realize that those people also have issues but choose to only share the good part of their lives to the internet. This is one of the major phenomena that causes teenagers to feel like they aren’t living a good life, leading to increased depression and suicide rates.");
-        lesson.add("Despite that many think, it is necessary for teens to limit their screen time to what experts say should be around 2 hours a day. For many this goal seems unachievable, but it can be done over the course of a long time using specific strategies.");
-        lesson.add("The first of these is to spend more time with family and friends without you devices on you. Many people only communicate with others through text but this is more harmful than it may seem as we humans need to see and hear other humans often. This means gathering in person and maybe playing board games or in general talking and discussing");
-        lesson.add("Another way it to use your phone’s built in app limit to reduce the amount you spend on specific apps you deem to be harmful to you");
-        lesson.add("A good idea would be to find new hobbies, especially if they require you to go outside more often. The positive effects this can have on mental health are often very underestimated");
-        lesson.add("Personal Computers have a very specific downside, related to the way most chose to use them. When used while sitting down, the proper posture is often not achieved, causing damage to many bones in our bodies including the spine, which can later lead to fatigue or in some cases carpal tunnel and other possible issues. We can reduce this by using standing desks where possible, this reduces the time spent sitting down as the user can split the time between sitting and standing whenever they start feeling uncomfortable. Another item to consider would be ergonomic peripherals such as mice and keyboards to reduce arm and hand related injuries. Finally, when sitting down, it is highly recommended to follow ergonomic standards, which include: Your chair should help rest your lower back, your feet should be fully touching the floor, while your thighs should be parallel to it, your monitor should be about an arm’s length away from your eyes, and finally, your hands and elbows should be at the same height.");
+        lesson.add("The age groups seeing the largest negative impacts of tech are children under the age of 5 and teenagers, and \nboth need to use different strategies.");
+        lesson.add("For children, those under the age of 18 months should not be using electronic devices altogether as they need \nto be interacting with real world toys and objects to develop basic human senses. Those older than that should \nwatch TV and use devices such as iPads in moderation and under heavy monitoring, parents should know and choose \nwhat their kids watch or do online due to the dangers of the internet. These parents should also limit the \namount of time kids spend with tech as it can be very addictive if not used properly.");
+        lesson.add("For teenagers, however, it gets a little more difficult. For many people, having a device with them at all \ntimes is necessary for work, school, and social life. Social media apps have taken advantage of this by making \naddictive apps that bundle entertainment with messaging to maximize the time spent on their apps. When looking \nthrough social media, one can see what seems to be other people’s perfect lives, but it is not that easy to \nrealize that those people also have issues but choose to only share the good part of their lives to the internet. This \nis one of the major phenomena that causes teenagers to feel like they aren’t living a good life, leading to increased depression and suicide rates.");
+        lesson.add("Despite that many think, it is necessary for teens to limit their screen time to what experts say should be \naround 2 hours a day. For many this goal seems unachievable, but it can be done over the course of a long time \nusing specific strategies.");
+        lesson.add("The first of these is to spend more time with family and friends without you devices on you. Many people only \ncommunicate with others through text but this is more harmful than it may seem as we humans need to see and hear \nother humans often. This means gathering in person and maybe playing board games or in general talking and \ndiscussing");
+        lesson.add("Another way it to use your phone’s built in app limit to reduce the amount you spend on specific apps you deem \nto be harmful to you");
+        lesson.add("A good idea would be to find new hobbies, especially if they require you to go outside more often. The \npositive effects this can have on mental health are often very underestimated");
+        lesson.add("Personal Computers have a very specific downside, related to the way most chose to use them. When used while \nsitting down, the proper posture is often not achieved, causing damage to many bones in our bodies including the \nspine, which can later lead to fatigue or in some cases carpal tunnel and other possible issues. We can reduce \nthis by using standing desks where possible, this reduces the time spent sitting down as the user can split \nthe time between sitting and standing whenever they start feeling uncomfortable. Another item to consider would be \nergonomic peripherals such as mice and keyboards to reduce arm and hand related injuries. Finally, when sitting down, \nit is highly recommended to follow ergonomic standards, which include: Your chair should help rest your lower back, your \nfeet should be fully touching the floor, while your thighs should be parallel to it, your monitor should be about an arm’s \nlength away from your eyes, and finally, your hands and elbows should be at the same height.");
         lesson.add("PART THREE: GENERAL - Programs and Initiatives");
         lesson.add("We are lucky here in Ottawa to have a good amount of recycling centers, each for different purposes.");
-        lesson.add("One of these, which is specific to tech, is RecycleMyElectronics, which has 6 locations all across Ottawa to make it easier to recycle. Their mission is to reduce the amount of e-waste going into canadian landfills, but due to their knowledge of electronics, they also offer services such as making sure a hard drive is completely erased before being potentially reused");
-        lesson.add("Another one, specifically in Merivale is Quantum Life Recycling, who achieve a very similar goal as the previous example.");
-        lesson.add("Very similar to the other two is ERA Canada, any of these if fine so choose the closest or more convenient one to you");
-        lesson.add("Sustainable Development Technology Canada is a government organization who focuses on providing the proper funding and help to canadian organizations whose goal is to develop sustainable technologies or to reduce Canada’s carbon footprint");
-        lesson.add("The Ottawa Climate Action Fund (OCAF) is also a similar organization, whose goal is to discuss with people and communities around Ottawa about ways of reducing our cities carbon footprint. Their ultimate goal is to achieve a carbon-neutral ottawa.");
-        lesson.add("Electronics Product Stewardship Canada is a non-profit and focuses on making sure electronics are being disposed of properly so the dangerous and valuable metals within them do not end up in our landfills or water supplies.");
+        lesson.add("One of these, which is specific to tech, is RecycleMyElectronics, which has 6 locations all across Ottawa to \nmake it easier to recycle. Their mission is to reduce the amount of e-waste going into canadian landfills, but due \nto their knowledge of electronics, they also offer services such as making sure a hard drive is completely \nerased before being potentially reused");
+        lesson.add("Another one, specifically in Merivale is Quantum Life Recycling, who achieve a very similar goal as the \nprevious example.");
+        lesson.add("Very similar to the other two is ERA Canada, any of these if fine so choose the closest or more convenient \none to you");
+        lesson.add("Sustainable Development Technology Canada is a government organization who focuses on providing the proper \nfunding and help to canadian organizations whose goal is to develop sustainable technologies or to reduce Canada’s \ncarbon footprint");
+        lesson.add("The Ottawa Climate Action Fund (OCAF) is also a similar organization, whose goal is to discuss with people \nand communities around Ottawa about ways of reducing our cities carbon footprint. Their ultimate goal is to achieve \na carbon-neutral ottawa.");
+        lesson.add("Electronics Product Stewardship Canada is a non-profit and focuses on making sure electronics are being \ndisposed of properly so the dangerous and valuable metals within them do not end up in our landfills or water supplies.");
     }
-    Questions firstPositiveQ = new Questions("How do fitness trackers and fitness apps on mobile devices help people stay active?", "By notifying them when they have eaten too much", "By entertaining them", "By diagnosing diseases ", "By keeping track of heart rate, blood glucose, and kilometers walked", "d");
-    Questions secondPositiveQ = new Questions("What is the biggest positive role the internet has had on improving the medical field?", "It provides final and definitive medical conclusions", "It replaces doctors and removes the need for them completely", "It allows people to search up possible symptoms to get a general idea of what's going on", "All of the above", "c");
-    Questions thirdPositiveQ = new Questions("What should be heavily considered if searching for medical advice on the internet?", "The information is often inaccurate and sometimes misleading, so it is important to take that information with a heavy grain of salt", "It should be taken as definitive advice", "Many diseases and conditions share symptoms, meaning it is impossible for the internet to know what’s going on in someone’s specific case", "A and C", "d");
+    Questions firstQ_Set3 = new Questions("What is a major reason for recycling electronics?", "Because they contain both rare and toxic metals that cause damage to our environment", "Because big companies need to save money", "To reduce the need for new devices ", "All of the above", "a");
+    Questions secondQ_Set3 = new Questions("What is a major reason for giving your old or broken electronics to a recycling center?", "So that electronic and its parts can be reused", "To free up space in canadian landfills", "Because it sometimes comes with discounts for new technology", "All of the above", "d");
+    Questions thirdQ_Set3 = new Questions("How many recycling centers are in Ottawa?", "1", "2", "Many", "None", "c");
     
-    Questions firstNegativeQ = new Questions("What health side effects does sitting at a desk for extended periods of time cause?", "Improved mental health", "More physical activity ", "Obesity along with complications such as heart issues", "None of the above", "c");
-    Questions secondNegativeQ = new Questions("What impact on children’s human health has the increase in use of mobile devices do?", "Major positive impact", "Minor positive impact", "Minor negative impact", "Major negative impact", "d");
-    Questions thirdNegativeQ = new Questions("How does being near a factory affect the people typically living in developing countries?", "It gives them access to better healthcare ", "It decreases the amount of jobs in the area", "They often have high rates of cancer due to the air and water pollution caused by some factories", "They have fewer health issues", "c");
+    Questions firstQ_Set2 = new Questions("Which age group should not use a mobile device on a regular basis?", "2-5 year olds", "1.5 year olds and under", "5-12 year olds", "Teenagers", "b");
+    Questions secondQ_Set2 = new Questions("Why should parents supervise their children while they are using devices connected to the internet?", "To prevent addiction", "To protect against malicious strangers", "To prevent them from viewing potentially disturbing material", "All of the above", "d");
+    Questions thirdQ_Set2 = new Questions("What is the recommended screen time for teenagers?", "1 hour", "2 hours", "3 hours", "4 hours", "b");
+    
+    Questions firstQ_Set1 = new Questions("Which action can be taken to reduce our electricity usage at home?", "Washing more clothes at the same time", "Leaving lights on as much as possible", "Using more air conditioning in the summer", "Taking longer showers", "a");
+    Questions secondQ_Set1 = new Questions("Which of the following are methods of transportation that can be used to reduce nitrogen oxide emissions?", "Buses", "Cars", "Trucks", "Planes", "a");
+    Questions thirdQ_Set1 = new Questions("What is the benefit of wasting less food?", "Lower electricity consumption", "Lower water consumption", "Reducing over farming and over hunting", "Reducing air pollution ", "c");
     
     /**
      * This method is called from within the constructor to initialize the form.
@@ -112,6 +116,7 @@ public class InitiativesModule extends javax.swing.JFrame {
         mainTextLabel.setColumns(20);
         mainTextLabel.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         mainTextLabel.setRows(5);
+        mainTextLabel.setText("PRESS \"NEXT\" TO START");
         jScrollPane1.setViewportView(mainTextLabel);
 
         SubButton.setText("SUBMIT");
@@ -261,7 +266,7 @@ public class InitiativesModule extends javax.swing.JFrame {
                 finalLabel.setVisible(true);
                 answerField.setVisible(true);
                 SubButton.setVisible(true);
-                mainTextLabel.setText(firstPositiveQ.toString());
+                mainTextLabel.setText(firstQ_Set1.toString());
             } else if (nextButtonCount == 17){
                 questionCount = 0;
                 questionSet = 2;
@@ -269,9 +274,17 @@ public class InitiativesModule extends javax.swing.JFrame {
                 finalLabel.setVisible(true);
                 answerField.setVisible(true);
                 SubButton.setVisible(true);
-                mainTextLabel.setText(firstNegativeQ.toString());
-            } else if (nextButtonCount == 18){
-                mainTextLabel.setText("Module 2 Finished. You may go back to the main menu.");
+                mainTextLabel.setText(firstQ_Set2.toString());
+            } else if (nextButtonCount == 25){
+                questionCount = 0;
+                questionSet = 2;
+                nextButton.setVisible(false);
+                finalLabel.setVisible(true);
+                answerField.setVisible(true);
+                SubButton.setVisible(true);
+                mainTextLabel.setText(firstQ_Set3.toString());
+            } else if (nextButtonCount == 26){
+                mainTextLabel.setText("Module 3 Finished. You may go back to the main menu.");
                 backButton.setVisible(true);
                 ModuleSelect.iniComp = 100;
             } else {
@@ -288,9 +301,9 @@ public class InitiativesModule extends javax.swing.JFrame {
             switch (questionCount){
                 case 0:
                     System.out.println("CASE 0");
-                    mainTextLabel.setText(secondPositiveQ.toString());
+                    mainTextLabel.setText(secondQ_Set1.toString());
                     q1.setVisible(true);
-                    if (answerField.getText().toLowerCase().equals(firstPositiveQ.getCorrectAns())){
+                    if (answerField.getText().toLowerCase().equals(firstQ_Set1.getCorrectAns())){
                         System.out.println("RIGHT");
                         rightLabel1.setVisible(true);
                         ModuleSelect.XP += 25;
@@ -303,9 +316,9 @@ public class InitiativesModule extends javax.swing.JFrame {
                     break;
                 case 1:
                     System.out.println("CASE 1");
-                    mainTextLabel.setText(thirdPositiveQ.toString());
+                    mainTextLabel.setText(thirdQ_Set1.toString());
                     q2.setVisible(true);
-                    if (answerField.getText().toLowerCase().equals(secondPositiveQ.getCorrectAns())){
+                    if (answerField.getText().toLowerCase().equals(secondQ_Set1.getCorrectAns())){
                         System.out.println("RIGHT");
                         ModuleSelect.XP += 25;
                         rightLabel2.setVisible(true);
@@ -320,7 +333,7 @@ public class InitiativesModule extends javax.swing.JFrame {
                     System.out.println("CASE 2");
                     mainTextLabel.setText("");
                     q3.setVisible(true);
-                    if (answerField.getText().toLowerCase().equals(thirdPositiveQ.getCorrectAns())){
+                    if (answerField.getText().toLowerCase().equals(thirdQ_Set1.getCorrectAns())){
                         System.out.println("RIGHT");
                         ModuleSelect.XP += 25;
                         rightLabel3.setVisible(true);
@@ -349,14 +362,14 @@ public class InitiativesModule extends javax.swing.JFrame {
                 default:
                     System.out.print("Error.");
             }
-        } else {
+        } else if (questionSet == 2){
             switch (questionCount){
             case 0:
                 q1.setVisible(true);
                 q2.setVisible(true);
                 q3.setVisible(true);
-                mainTextLabel.setText(secondNegativeQ.toString());
-                if (answerField.getText().toLowerCase().equals(firstNegativeQ.getCorrectAns())){
+                mainTextLabel.setText(secondQ_Set2.toString());
+                if (answerField.getText().toLowerCase().equals(firstQ_Set2.getCorrectAns())){
                     System.out.println("RIGHT");
                     ModuleSelect.XP += 25;
                     rightLabel1.setVisible(true);
@@ -368,8 +381,8 @@ public class InitiativesModule extends javax.swing.JFrame {
                 answerField.setText("");
                 break;
             case 1:
-                mainTextLabel.setText(thirdNegativeQ.toString());
-                if (answerField.getText().toLowerCase().equals(secondNegativeQ.getCorrectAns())){
+                mainTextLabel.setText(thirdQ_Set2.toString());
+                if (answerField.getText().toLowerCase().equals(secondQ_Set2.getCorrectAns())){
                     System.out.println("RIGHT");
                     ModuleSelect.XP += 25;
                     rightLabel2.setVisible(true);
@@ -381,7 +394,7 @@ public class InitiativesModule extends javax.swing.JFrame {
                 answerField.setText("");
                 break;
             case 2:
-                if (answerField.getText().toLowerCase().equals(thirdNegativeQ.getCorrectAns())){
+                if (answerField.getText().toLowerCase().equals(thirdQ_Set2.getCorrectAns())){
                     System.out.println("RIGHT");
                     ModuleSelect.XP += 25;
                     rightLabel3.setVisible(true);
@@ -396,7 +409,66 @@ public class InitiativesModule extends javax.swing.JFrame {
                 finalLabel.setVisible(false);
                 answerField.setVisible(false);
                 SubButton.setVisible(false);
+                q1.setVisible(false);
+                q2.setVisible(false);
+                q3.setVisible(false);
+                rightLabel1.setVisible(false);
+                rightLabel2.setVisible(false);
+                rightLabel3.setVisible(false);
+                wrongLabel1.setVisible(false);
+                wrongLabel2.setVisible(false);
+                wrongLabel3.setVisible(false);
+                break;
+            default:
+                System.out.print("IDK");
+            }
+        } else {
+            switch (questionCount){
+            case 0:
+                q1.setVisible(true);
+                q2.setVisible(true);
+                q3.setVisible(true);
+                mainTextLabel.setText(secondQ_Set3.toString());
+                if (answerField.getText().toLowerCase().equals(firstQ_Set3.getCorrectAns())){
+                    System.out.println("RIGHT");
+                    ModuleSelect.XP += 25;
+                    rightLabel1.setVisible(true);
+                } else {
+                    System.out.println("WRONG");
+                    wrongLabel1.setVisible(true);
+                }
+                questionCount += 1;
+                answerField.setText("");
+                break;
+            case 1:
+                mainTextLabel.setText(thirdQ_Set3.toString());
+                if (answerField.getText().toLowerCase().equals(secondQ_Set3.getCorrectAns())){
+                    System.out.println("RIGHT");
+                    ModuleSelect.XP += 25;
+                    rightLabel2.setVisible(true);
+                } else {
+                    System.out.println("WRONG");
+                    wrongLabel2.setVisible(true);
+                }
+                questionCount += 1;
+                answerField.setText("");
+                break;
+            case 2:
+                if (answerField.getText().toLowerCase().equals(thirdQ_Set3.getCorrectAns())){
+                    System.out.println("RIGHT");
+                    ModuleSelect.XP += 25;
+                    rightLabel3.setVisible(true);
+                } else {
+                    System.out.println("WRONG");
+                    wrongLabel3.setVisible(true);
+                }
+                questionCount += 1;
+                answerField.setText("");
                 
+                nextButton.setVisible(true);
+                finalLabel.setVisible(false);
+                answerField.setVisible(false);
+                SubButton.setVisible(false);
                 break;
             default:
                 System.out.print("IDK");
