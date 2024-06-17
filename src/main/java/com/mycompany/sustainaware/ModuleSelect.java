@@ -17,6 +17,8 @@ public class ModuleSelect extends javax.swing.JFrame {
     public static int XP;
     
     public static int envComp = 0;
+    public static int healthComp = 0;
+    public static int iniComp = 0;
 
     /**
      * Creates new form ModuleSelect
@@ -24,6 +26,8 @@ public class ModuleSelect extends javax.swing.JFrame {
     public ModuleSelect() {
         initComponents();
         EnvCompletionLabel.setText("Completion: " + envComp + "%");
+        HealthCompletionLabel.setText("Completion: " + healthComp + "%");
+        IniCompletionLabel.setText("Completion: " + iniComp + "%");
         XPLabel.setText("XP: " + XP);
     }
 
@@ -206,9 +210,9 @@ public class ModuleSelect extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     public static javax.swing.JButton EnvButton;
     public static javax.swing.JLabel EnvCompletionLabel;
-    private javax.swing.JLabel HealthCompletionLabel;
+    public static javax.swing.JLabel HealthCompletionLabel;
     public static javax.swing.JButton IniButton;
-    private javax.swing.JLabel IniCompletionLabel;
+    public static javax.swing.JLabel IniCompletionLabel;
     private javax.swing.JLabel XPLabel;
     public static javax.swing.JButton healthButton;
     private javax.swing.JLabel jLabel1;

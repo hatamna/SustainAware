@@ -141,11 +141,17 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Completion: 0%"/>
       </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JLabel" name="IniCompletionLabel">
       <Properties>
         <Property name="text" type="java.lang.String" value="Completion: 0%"/>
       </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JLabel" name="XPLabel">
       <Properties>
