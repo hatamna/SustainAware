@@ -109,6 +109,11 @@ public class ModuleSelect extends javax.swing.JFrame {
         });
 
         certificateButton.setText("View Completion Certificate");
+        certificateButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                certificateButtonActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -195,6 +200,12 @@ public class ModuleSelect extends javax.swing.JFrame {
     private void moreInfoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_moreInfoButtonActionPerformed
         JOptionPane.showMessageDialog(this.CAinfo, "XP is meant to be a measure of how well you are doing in the course rather then pure completion.\nDoing well increases your XP.");
     }//GEN-LAST:event_moreInfoButtonActionPerformed
+
+    private void certificateButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_certificateButtonActionPerformed
+        CertificatePage screen = new CertificatePage();
+        screen.setVisible(true);
+        screen.toFront();
+    }//GEN-LAST:event_certificateButtonActionPerformed
 
     /**
      * @param args the command line arguments
